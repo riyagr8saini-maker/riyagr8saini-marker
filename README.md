@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a Software Developer specializing in React & Node.js. I enjoy turning ideas into reality through code and am always looking for ways to optimize performance and user experience.<br>
+Hi! I’m a Software Developer specializing in [React & Node.js]. I enjoy turning ideas into reality through code and am always looking for ways to optimize performance and user experience.<br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ Hi! I’m a Software Developer specializing in React & Node.js. I enjoy turning 
 ---
 [![](https://komarev.com/ghpvc/?username=riyagr8saini-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># riyagr8saini-marker
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
